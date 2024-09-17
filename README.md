@@ -29,8 +29,8 @@
 
 ### Execute the following steps using CLI:
 - ``` git clone <repo_url> ```
-- ``` jmeter -n -t .\Booking.jmx -l .\Booking.jtl -e -o Reports ``` [For First Part 1]
-- ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ``` [For First Part 2]
+- ``` jmeter -n -t .\Booking.jmx -l .\Booking.jtl -e -o Reports ``` [For Booking APIs]
+- ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ``` [For DMoney APIs]
 
 ## Load and Stress Test Excel Repoet -
  - [Click Here To Open The Report](https://docs.google.com/spreadsheets/d/19GYjbZhdUXBxYSQHAeiZ1zXB1yhEJTzp/edit?usp=sharing&ouid=108139447743460312613&rtpof=true&sd=true)
