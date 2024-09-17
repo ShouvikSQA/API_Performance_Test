@@ -9,7 +9,7 @@
   
 
 ## Testcase scenarios for Load and Stress Test -
-1. Create a Collectio of API of Login API, Create Booking API and Search API Http requests.
+1. Create a Collectio of APIs (JMeter Collection) of Login API, Create Booking API and Search API Http requests.
 2. Perform Load Test and Stress Test. Find the Bottleneck point and Capacity Point.
 
 ## Testcase scenarios for API Chaining in Jmeter Test -
@@ -29,8 +29,8 @@
 
 ### Execute the following steps using CLI:
 - ``` git clone <repo_url> ```
-- ``` jmeter -n -t .\Booking.jmx -l .\Booking.jtl -e -o Reports ```
-- ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ```
+- ``` jmeter -n -t .\Booking.jmx -l .\Booking.jtl -e -o Reports ``` [For First Part 1]
+- ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ``` [For First Part 2]
 
 ## Load and Stress Test Excel Repoet -
  - [Click Here To Open The Report](https://docs.google.com/spreadsheets/d/19GYjbZhdUXBxYSQHAeiZ1zXB1yhEJTzp/edit?usp=sharing&ouid=108139447743460312613&rtpof=true&sd=true)
@@ -40,6 +40,9 @@
 
 ### Generated HTML report for Stress Test -
 ![image](https://github.com/user-attachments/assets/ccc8e73f-a8a8-4f11-bf46-0e9f794c28dc)
+
+### Generated HTML report for DMoney Jmeter Collection Test -
+![image](https://github.com/user-attachments/assets/3cda7f79-7225-454e-b0bf-6a93f8a116bb)
 
 
 
