@@ -1,7 +1,7 @@
 # API_Performance_Test
 
 ## Project Summery -
-  - HereI have performed Load Test and Stress Test on the below Website APIs -
+  - Here I have performed Load Test and Stress Test on the below Website APIs -
   https://restful-booker.herokuapp.com
   - Then Did some API Chaining on the below website APIs -
   http://dmoney.roadtocareer.net
@@ -29,7 +29,8 @@
 
 ### Execute the following steps using CLI:
 - ``` git clone <repo_url> ```
-- ``` jmeter -n -t Dmoney.jmx -l DMoney.csv ```
+- ``` jmeter -n -t .\Booking.jmx -l .\Booking.jtl -e -o Reports ```
+- ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ```
 
 
 ## Documantation for the API Collection -
