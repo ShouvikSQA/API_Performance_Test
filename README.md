@@ -3,9 +3,9 @@
 ## Project Summery -
   - Here I have performed Load Test and Stress Test on the below Website APIs -
   https://restful-booker.herokuapp.com
-  - Then Did some API Chaining on the below website APIs -
+  - Then Did some API Chaining (JMeter Collection) on the below website APIs -
   http://dmoney.roadtocareer.net
-  - Here I Have Taken data from CSV files and Run Multiple APIs at a time using Four Threads in Jmeter.
+   [Here I Have Taken data from CSV files and Run Multiple APIs at a time using Four Threads in Jmeter.]
   
 
 ## Testcase scenarios for Load and Stress Test -
