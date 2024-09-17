@@ -47,6 +47,4 @@
 
 
 
-## Output -
-![image](https://github.com/user-attachments/assets/946b8a4c-0ece-4b71-85fd-6bf1097ceffb)
 
